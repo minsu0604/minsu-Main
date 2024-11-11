@@ -29,11 +29,13 @@
 <a href="https://github.com/minsu0604/minsu_portfolio">포트폴리오 페이지로 이동!!</a>
 <br>
 <br>
-●<a href="https://github.com/minsu0604/minsu_spring_project">영화 커뮤니티 사이트</a>
+●   <a href="https://github.com/minsu0604/minsu_spring_project">영화 커뮤니티 사이트</a>
 <br>
-●<a href="https://github.com/minsu0604/minsu_spring-kotlin_project">펀딩 소셜 커머스 앱</a>
 <br>
-●<a href="https://github.com/minsu0604/minsu_spring-kotlin-react_project">비품 관리 시스템</a>
+●   <a href="https://github.com/minsu0604/minsu_spring-kotlin_project">펀딩 소셜 커머스 앱</a>
+<br>
+<br>
+●   <a href="https://github.com/minsu0604/minsu_spring-kotlin-react_project">비품 관리 시스템</a>
 
 <br>
 <br>
