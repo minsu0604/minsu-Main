@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-<h1>본인 소개</h1>
+🚀<h1>본인 소개</h1>
 <h3>안녕하세요!! 저는 백앤드를 다루며 성장하는 풀스택 개발자 마민수입니다!!</h3>
 <h3>새로운 기술을 배우는 것을 좋아하며, 팀 프로젝트를 통하여 다양한 프로그램을 통해 기능을 향상시켰습니다. </h3>
 <hr>
