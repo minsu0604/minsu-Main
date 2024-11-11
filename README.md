@@ -27,6 +27,11 @@
 
 <h1>프로젝트 목록</h1>
 <a href="https://github.com/minsu0604/minsu_portfolio">포트폴리오 페이지로 이동!!</a>
+●<a href="https://github.com/minsu0604/minsu_spring_project">영화 커뮤니티 사이트</a>
+●<a href="https://github.com/minsu0604/minsu_spring-kotlin_project">펀딩 소셜 커머스 앱</a>
+●<a href="https://github.com/minsu0604/minsu_spring-kotlin-react_project">비품 관리 시스템</a>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsu0604)](https://github.com/anuraghazra/github-readme-stats)
 
