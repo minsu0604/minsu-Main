@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
+<h1>소개</h1>
+<h3>안녕하세요!! 저는 백앤드를 다루며 성장하는 풀스택 개발자 마민수입니다!!</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsu0604)](https://github.com/anuraghazra/github-readme-stats)
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
