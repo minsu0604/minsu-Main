@@ -5,6 +5,7 @@
 <h3>새로운 기술을 배우는 것을 좋아하며, 팀 프로젝트를 통하여 다양한 프로그램을 통해 기능을 향상시켰습니다. </h3>
 
 <h1>보유 기술 및 능력</h1>
+
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
