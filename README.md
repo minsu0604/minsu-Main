@@ -23,6 +23,10 @@
 ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![js](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<h1></h1>
+
+<h1>프로젝트 목록</h1>
+<a href="https://github.com/minsu0604/minsu_portfolio">포트폴리오 페이지로 이동!!</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsu0604)](https://github.com/anuraghazra/github-readme-stats)
 
